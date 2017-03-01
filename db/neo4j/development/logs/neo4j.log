@@ -1,0 +1,5 @@
+nohup: ignoring input
+2017-03-01 05:51:31.728+0000 INFO  Starting...
+2017-03-01 05:51:33.648+0000 INFO  Bolt enabled on localhost:7472.
+2017-03-01 05:51:37.494+0000 INFO  Started.
+2017-03-01 05:51:38.941+0000 INFO  Remote interface available at http://localhost:7474/
